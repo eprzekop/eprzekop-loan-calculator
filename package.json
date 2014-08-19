@@ -1,0 +1,31 @@
+{
+    "name": "eprzekop-loan-calculator",
+    "version": "0.0.0",
+    "description": "One of the 20-idea apps to help teach node.",
+    "main": "web.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/eprzekop/eprzekop-loan-calculator.git"
+    },
+    "keywords": [
+        "example",
+        "heroku",
+        "loan"
+    ],
+    "author": "Erik Przekop",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/eprzekop/eprzekop-loan-calculator/issues"
+    },
+    "homepage": "https://github.com/eprzekop/eprzekop-loan-calculator",
+    "dependencies": {
+        "express": "^4.8.5",
+        "logfmt": "^1.1.2"
+    },
+    "engines": {
+        "node": "0.10.x"
+    }
+}
